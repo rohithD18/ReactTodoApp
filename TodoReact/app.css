@@ -1,0 +1,30 @@
+button{
+    background-color: #111432;
+    color: antiquewhite;
+    border-radius: 10px;
+}
+body{
+    background-color: #111432;
+    color: #111432;
+    width: 400px;    
+}
+input{
+    height: 40px;
+    background-color: rgb(70, 78, 85);
+    color: rgb(200, 203, 208);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.appstyle{
+    background-color: bisque;
+    border-radius: 10px;
+    /* padding: 10%; */
+}
+#todosinput{
+    margin-bottom: 1%;
+    width: 90%;
+}
+.addbtn{
+    height: 40px;
+}
+
